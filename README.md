@@ -1,5 +1,5 @@
 # Abdul Salam 👋
-### 🚀 AI-Powered Flutter Developer | Founder of Bits Accurate
+### 🚀 Flutter Developer | Member of Bits Accurate
 
 ![Profile Banner](https://img.shields.io/badge/Abdul%20Salam-Accuracy%20in%20Software%20Development-0EA5E9?style=for-the-badge)
 
@@ -11,7 +11,7 @@ I'm **Abdul Salam**, a results-driven **Mobile Application Developer** who bridg
 
 My competitive edge is my **AI-Augmented Workflow**. I leverage advanced LLMs (Gemini, ChatGPT, Claude) to accelerate development, debug complex logic, and seamlessly integrate **PHP-based APIs** and **Firebase** backends. This allows me to deliver client projects faster and with cleaner architecture.
 
-**Founder & Lead Developer** at [Bits Accurate](https://github.com/bitsaccuratestudio)  
+**Member of Bits Accurate** - Precision Software Development  
 **Tagline:** Accuracy in Software Development  
 **Location:** India 🇮🇳  
 **Open to:** Freelance Projects | Contract Work | Collaborations
@@ -33,10 +33,10 @@ My competitive edge is my **AI-Augmented Workflow**. I leverage advanced LLMs (G
 
 ## 💼 Professional Experience
 
-### **Founder & Lead Developer - Bits Accurate** *(Present)*
-Building a precision-focused software development studio specializing in high-quality mobile applications and custom software solutions.
+### **Flutter Developer - Bits Accurate** *(Present)*
+Building high-quality mobile applications as a member of a precision-focused software development team.
 - **Accuracy in Software Development** - Our core commitment
-- Leading projects for diverse clients
+- Working on diverse client projects
 - Specializing in Flutter, GetX, and PHP API integration
 - Delivering projects under strict quality standards and NDAs
 
@@ -198,7 +198,7 @@ I'm available for:
 
 - ✅ Build a strong portfolio of public projects
 - ✅ Contribute to open-source Flutter community
-- ✅ Expand Bits Accurate with quality client projects
+- ✅ Deliver quality client projects with Bits Accurate
 - ✅ Mentor aspiring Flutter developers
 - ✅ Stay updated with latest Flutter & Dart features
 - ✅ Explore AI integration in mobile development
@@ -253,15 +253,15 @@ Looking for:
 
 ## 📝 About Bits Accurate
 
-**Bits Accurate** is my personal software development brand where I deliver precision-crafted solutions.
+**Bits Accurate** is a precision-focused software development team where I deliver high-quality solutions.
 
-- **Founder:** Abdul Salam
+- **Team Members:** Abdul & Kamal
 - **Tagline:** Accuracy in Software Development
 - **Mission:** Building high-quality software with precision
 - **Services:** Mobile Dev | Web Dev | API Integration | Custom Solutions
 - **GitHub Organization:** [@BitsAccurateStudio](https://github.com/bitsaccuratestudio)
 
-*Want to work with Bits Accurate? [Check out the organization →](https://github.com/bitsaccuratestudio)*
+*Proud member of Bits Accurate team!*
 
 ---
 
@@ -277,7 +277,7 @@ For inquiries about specific services, projects, or collaborations, please reach
 
 **Accuracy in Software Development** ⚡
 
-*Built by Abdul Salam*
+*By Abdul Salam | Member of Bits Accurate*
 
 </p>
 
