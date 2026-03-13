@@ -1,294 +1,141 @@
-# Abdul Salam 👋
-### 🚀 Flutter Developer | Member of Bits Accurate
-
-![Profile Banner](https://img.shields.io/badge/Abdul%20Salam-Accuracy%20in%20Software%20Development-0EA5E9?style=for-the-badge)
-
----
-
-## 👨‍💻 About Me
-
-I'm **Abdul Salam**, a results-driven **Mobile Application Developer** who bridges the gap between complex requirements and production-ready code. I specialize in building scalable mobile apps using **Flutter**, with a strong focus on State Management (**GetX**) and efficient API integration (**Dio**).
-
-My competitive edge is my **AI-Augmented Workflow**. I leverage advanced LLMs (Gemini, ChatGPT, Claude) to accelerate development, debug complex logic, and seamlessly integrate **PHP-based APIs** and **Firebase** backends. This allows me to deliver client projects faster and with cleaner architecture.
-
-**Member of Bits Accurate** - Precision Software Development  
-**Tagline:** Accuracy in Software Development  
-**Location:** India 🇮🇳  
-**Open to:** Freelance Projects | Contract Work | Collaborations
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Mobile Core** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
-| **State & Networking** | ![GetX](https://img.shields.io/badge/GetX-Purple?style=flat&logo=flutter&logoColor=white) ![Dio](https://img.shields.io/badge/Dio-Networking-red?style=flat) |
-| **Backend Integration** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) |
-| **Web Tech** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-| **AI Assistants** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) |
-| **Tools & Platforms** | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
-
----
-
-## 💼 Professional Experience
-
-### **Flutter Developer - Bits Accurate** *(Present)*
-Building high-quality mobile applications as a member of a precision-focused software development team.
-- **Accuracy in Software Development** - Our core commitment
-- Working on diverse client projects
-- Specializing in Flutter, GetX, and PHP API integration
-- Delivering projects under strict quality standards and NDAs
-
-### **Freelance Flutter Developer** *(2024 - Present)*
-Delivering high-quality mobile applications for private clients:
-- ✅ **Advanced API Integration:** Custom PHP backends with Dio (interceptors, token management, error handling)
-- ✅ **State Management:** GetX for reactive state, routing, and dependency injection
-- ✅ **Real-time Data Sync:** Firebase, Google Sheets, and local database synchronization
-- ✅ **Performance Optimization:** App optimization for smooth user experience
-- ✅ **Secure Authentication:** Token-based systems and secure login flows
-
-### **Key Achievements:**
-- Delivered 5+ production-ready Flutter applications
-- Integrated complex PHP-based APIs with custom backends
-- Implemented real-time Firebase synchronization systems
-- Optimized app performance reducing load time by 40%
-- Mentored junior developers on Flutter best practices
-
-*Note: Detailed project source code is confidential under NDA agreements.*
-
----
-
-## 🎯 What I Specialize In
-
-### **Mobile Application Development**
-- 📱 Flutter App Development (iOS & Android)
-- 🔄 GetX State Management & Architecture Patterns
-- 🔗 Secure API Integration with Dio
-- 🔥 Firebase Integration & Real-time Databases
-- ⚡ Performance Optimization & Code Splitting
-- 🎨 Beautiful UI/UX Implementation
-
-### **Backend Integration**
-- 🌐 PHP REST API Development
-- 🔐 Secure Authentication & Authorization
-- 📊 Database Design & Optimization
-- 💾 Google Sheets API Integration
-- 💳 Payment Gateway Integration
-- 🔄 Data Synchronization Systems
-
-### **Web Development**
-- 💻 Frontend Development (HTML, CSS, JavaScript)
-- ⚛️ React Applications
-- 📱 Responsive & Mobile-First Design
-- 🔗 RESTful API Integration
-
-### **AI-Augmented Development**
-- 🤖 Leveraging ChatGPT, Gemini, Claude for faster development
-- 🐛 Complex Logic Debugging with AI Assistance
-- 📝 Code Generation & Optimization
-- 💡 Architecture Planning & Design Patterns
-
----
-
-## 📜 Certifications & Education
-
-**Web Development Certificate**
-- **Duration:** April 2024 - August 2024
-- **Focus:** Frontend fundamentals, responsive design, DOM manipulation
-- **Skills:** HTML5, CSS3, JavaScript, modern web development practices
-
----
-
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imabdulsalam1&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" alt="Abdul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabdulsalam1&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=137FEC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Salam;Co-Founder+%40+BitsAccurate+%7C+Flutter+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imabdulsalam1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://bitsaccurate.com"><img src="https://img.shields.io/badge/BitsAccurate.com-137FEC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/imabdulsalam1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/imabdulsalam1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:imabdulsalam1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/918789812908"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
 
-### **Coming Soon!**
-Check back soon for:
-- 🎨 Flutter demo applications
-- 🔗 API integration examples
-- 🎯 GetX state management patterns
-- 💻 Web development samples
-- 🤖 AI-powered features showcase
+I'm the **Co-Founder & Lead Flutter Developer** at [**BitsAccurate**](https://bitsaccurate.com) — a software development studio based in **Noida, Delhi, India**. We build production-ready mobile apps, backend APIs, and web solutions for startups and businesses.
 
-*Currently building portfolio projects to showcase expertise. Stay tuned!*
+I handle everything from **client communication and project planning** to **writing production code in Flutter/Dart**, integrating REST APIs, and shipping apps to both the App Store and Play Store.
 
----
-
-## 🌟 Why Work With Me?
-
-✅ **Accuracy First** - Every deliverable meets precision standards  
-✅ **Clean Code** - Well-documented, maintainable, production-ready code  
-✅ **Fast Turnaround** - AI-augmented workflow for efficient development  
-✅ **Full Stack** - Handle complete project from design to deployment  
-✅ **Problem Solver** - Find creative solutions to complex problems  
-✅ **Quality Focused** - Rigorous testing and QA before delivery  
-✅ **Transparent** - Regular updates and clear communication  
-✅ **Scalable Solutions** - Built to grow with your business  
+```
+🏢  Co-Founder at BitsAccurate (bitsaccurate.com)
+📱  Flutter Developer — 25+ projects shipped, 10+ clients served
+🎓  BCA — Galgotias University (2022–2025)
+📍  Noida, Delhi, India
+📧  imabdulsalam1@gmail.com | bitsaccurate@gmail.com
+📞  +91 8789812908
+```
 
 ---
 
-## 💡 Development Philosophy
+## Tech Stack
 
-**Accuracy in Software Development**
-
-I don't build software. I build it **right**.
-
-Every project follows these core principles:
-1. **Precision Coding** - Clean, maintainable, well-structured code
-2. **Rigorous Testing** - Comprehensive testing at every stage
-3. **Performance First** - Optimized for speed and efficiency
-4. **Security Focused** - Following industry best practices
-5. **Client Collaboration** - Regular updates and transparent communication
-6. **Continuous Learning** - Staying updated with latest technologies
-
----
-
-## 📞 Get In Touch
-
-I'm available for:
-- **Custom Mobile App Development**
-- **Flutter App Projects**
-- **API Integration Services**
-- **Backend Development**
-- **Technical Consulting**
-- **Freelance & Contract Work**
-
-### Contact Information
-
-<div align="center">
-
-| **Platform** | **Handle** | **Link** |
-|:---|:---|:---|
-| **Email** | imabdulsalam1@gmail.com | [contact@imabdulsalam1.com](mailto:imabdulsalam1@gmail.com) |
-| **LinkedIn** | Abdul Salam | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imabdulsalam1) |
-| **GitHub** | imabdulsalam1 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/imabdulsalam1) |
-| **Instagram** | imabdulsalam1 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imabdulsalam1) |
-
-</div>
-
----
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imabdulsalam1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imabdulsalam1@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/imabdulsalam1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/imabdulsalam1)
-
-</div>
-
----
-
-## 🎯 Current Goals & Objectives
-
-- ✅ Build a strong portfolio of public projects
-- ✅ Contribute to open-source Flutter community
-- ✅ Deliver quality client projects with Bits Accurate
-- ✅ Mentor aspiring Flutter developers
-- ✅ Stay updated with latest Flutter & Dart features
-- ✅ Explore AI integration in mobile development
+<table>
+<tr>
+<td><b>Mobile</b></td>
+<td>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/GetX-8B5CF6?style=flat&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Web</b></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td><b>Deployment</b></td>
+<td>
+<img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 📚 Learning & Growth
+## What We've Built at BitsAccurate
 
-**Currently Exploring:**
-- 🤖 Advanced AI integration in Flutter apps
-- 🎮 Game development with Flutter
-- 🌐 Web3 & blockchain development
-- 📊 Advanced state management patterns
-- 🔐 Enterprise-level security practices
+| Project | Description | Tech |
+|:--------|:------------|:-----|
+| **Explore Jordan** | Tourism app with 25K+ places, Mapbox maps, bilingual EN/AR, blogs, chat & push notifications | Flutter, SQLite, Mapbox, REST API |
+| **Radio Hotstar** | Radio streaming app — 10K+ downloads, 4.6★ rating on Play Store | Java/Kotlin, ExoPlayer, AdMob |
+| **Radio Super Hiit** | Responsive radio website with live player, schedule, song requests | HTML/CSS/JS, Firebase Firestore |
+| **Route Optimizer** | Multi-stop trip planner with Google Maps shortest path routing | Flutter, Google Maps API |
+| **+ 4 White-Label Apps** | Healthcare, Events, E-Commerce & LMS apps shipped under client brands | Flutter, Firebase, Razorpay |
 
-**Interested In:**
-- Open-source contributions
-- Technical writing & blogging
-- Developer community engagement
-- Mentoring & knowledge sharing
+> 📊 **25+ Projects Shipped** · **10+ Clients Served** · **3+ Years Building**
 
----
-
-## 💬 Open for Discussions
-
-I'm always interested in talking about:
-- Flutter development best practices
-- API design & integration
-- Software architecture
-- Code optimization techniques
-- AI & development tools
-- Tech industry trends
-
-Feel free to reach out for discussions, collaboration, or just to say hello! 👋
+*Detailed source code is confidential under NDA. Visit [bitsaccurate.com](https://bitsaccurate.com) for case studies.*
 
 ---
 
-## 📈 Open Opportunities
+## GitHub Stats
 
-Looking for:
-- **Freelance Projects** - Short-term or long-term contracts
-- **Remote Positions** - Full-time or part-time roles
-- **Collaborations** - Team projects and partnerships
-- **Consulting** - Technical advice and architecture design
-- **Mentoring** - Helping junior developers grow
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imabdulsalam1&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabdulsalam1&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" width="48%" />
+</p>
 
-**Locations:** India-based, Remote Available  
-**Time Zone:** IST (UTC+5:30)  
-**Availability:** Flexible & Negotiable
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=imabdulsalam1&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
 
----
-
-## 📝 About Bits Accurate
-
-**Bits Accurate** is a precision-focused software development team where I deliver high-quality solutions.
-
-- **Team Members:** Abdul & Kamal
-- **Tagline:** Accuracy in Software Development
-- **Mission:** Building high-quality software with precision
-- **Services:** Mobile Dev | Web Dev | API Integration | Custom Solutions
-- **GitHub Organization:** [@BitsAccurateStudio](https://github.com/bitsaccuratestudio)
-
-*Proud member of Bits Accurate team!*
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imabdulsalam1&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="98%" />
+</p>
 
 ---
 
-## 📝 License & Disclaimer
+## Work With Us
 
-All code shared in my repositories is provided under appropriate licenses. Client projects are confidential and protected under NDAs.
+Looking for a **Flutter developer** or need a **full mobile app built from scratch**?
 
-For inquiries about specific services, projects, or collaborations, please reach out directly via email or LinkedIn.
+We take on freelance projects, contract work, and long-term partnerships.
+
+<p align="center">
+  <a href="https://bitsaccurate.com"><img src="https://img.shields.io/badge/🌐_Visit_BitsAccurate.com-137FEC?style=for-the-badge" /></a>
+  <a href="https://wa.me/918789812908"><img src="https://img.shields.io/badge/💬_WhatsApp_Us-25D366?style=for-the-badge" /></a>
+  <a href="mailto:bitsaccurate@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Us-D14836?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <b>Your Idea, Our Execution</b><br/>
+  <sub>Strategy | Execution | Success</sub>
+</p>
 
 ---
 
 <p align="center">
-
-**Accuracy in Software Development** ⚡
-
-*By Abdul Salam | Member of Bits Accurate*
-
+  <img src="https://visitcount.itsvg.in/api?id=imabdulsalam1&icon=0&color=0EA5E9" />
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=imabdulsalam1&icon=0&color=0EA5E9" alt="Profile Visit Count" />
-</p>
-
----
-
-## 🙏 Thank You
-
-Thank you for visiting my GitHub profile! If you found this useful or have any questions, feel free to reach out.
-
-**Let's build something amazing together!** 🚀
