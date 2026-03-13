@@ -137,5 +137,5 @@ We take on freelance projects, contract work, and long-term partnerships.
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=imabdulsalam1&icon=0&color=0EA5E9" />
+  <img src="[[https://visitcount.itsvg.in](https://drive.google.com/file/d/1ktn75-XK67IEZKxIHX_woyDh0lOoD6Qt/view?usp=sharing)/api?id=imabdulsalam1&icon=0&color=0EA5E9](https://drive.google.com/file/d/1ktn75-XK67IEZKxIHX_woyDh0lOoD6Qt/view?usp=sharing)" />
 </p>
