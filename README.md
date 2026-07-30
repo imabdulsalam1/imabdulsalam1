@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=137FEC&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Salam;Co-Founder+%40+BitsAccurate+%7C+Flutter+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=137FEC&center=true&vCenter=true&multiline=true&repeat=true&width=760&height=100&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Salam;Technical+Project+Manager+%26+IT+Business+Analyst" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://bitsaccurate.com"><img src="https://img.shields.io/badge/BitsAccurate.com-137FEC?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://portfolioabdulsalam.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-137FEC?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://bitsaccurate.com"><img src="https://img.shields.io/badge/BitsAccurate.com-2D5A4F?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/imabdulsalam1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/imabdulsalam1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:imabdulsalam1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -14,89 +15,83 @@
 
 ## About Me
 
-I'm the **Co-Founder & Lead Flutter Developer** at [**BitsAccurate**](https://bitsaccurate.com) — a software development studio based in **Noida, Delhi, India**. We build production-ready mobile apps, backend APIs, and web solutions for startups and businesses.
+I'm a **Technical Project Manager & IT Business Analyst** at [**BitsAccurate**](https://bitsaccurate.com) — an MSME-registered app development studio based in **New Delhi, India**.
 
-I handle everything from **client communication and project planning** to **writing production code in Flutter/Dart**, integrating REST APIs, and shipping apps to both the App Store and Play Store.
+I own end-to-end delivery as SPOC for 10+ enterprise clients across India and the Middle East — translating business requirements into structured project plans, BRD/FRD documentation, and Agile delivery cycles. Backed by working technical fluency in Flutter/Dart, REST APIs, and frontend basics, I can communicate directly and credibly with development teams rather than relying on a filtered handoff.
 
 ```
-🏢  Co-Founder at BitsAccurate (bitsaccurate.com)
-📱  Flutter Developer — 25+ projects shipped, 10+ clients served
+💼  Technical Project Manager & IT Business Analyst @ BitsAccurate
+🚀  15+ apps delivered · 10+ enterprise clients · 3+ years in IT delivery
 🎓  BCA — Galgotias University (2022–2025)
-📍  Noida, Delhi, India
-📧  imabdulsalam1@gmail.com | bitsaccurate@gmail.com
-📞  +91 8789812908
+📍  New Delhi, India
+📧  imabdulsalam1@gmail.com
+📞  +91 8789 812908
 ```
 
 ---
 
-## Tech Stack
+## Core Competencies & Toolkit
 
 <table>
 <tr>
-<td><b>Mobile</b></td>
+<td><b>Project & Delivery</b></td>
+<td>
+<img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white" />
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=flat&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Agile%2FScrum-1F6B3C?style=flat" />
+<img src="https://img.shields.io/badge/RAID_Logs-1F6B3C?style=flat" />
+</td>
+</tr>
+<tr>
+<td><b>Business Analysis</b></td>
+<td>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-8A5A13?style=flat" />
+<img src="https://img.shields.io/badge/BRD%2FFRD-8A5A13?style=flat" />
+<img src="https://img.shields.io/badge/UAT_Coordination-8A5A13?style=flat" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+</td>
+</tr>
+<tr>
+<td><b>Technical Fluency</b></td>
 <td>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/GetX-8B5CF6?style=flat&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Web</b></td>
-<td>
 <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Git%2FGitHub-181717?style=flat&logo=github&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Deployment</b></td>
+<td><b>Release &amp; Deployment</b></td>
 <td>
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
 </td>
 </tr>
 </table>
 
 ---
 
-## What We've Built at BitsAccurate
+## What I've Delivered at BitsAccurate
 
 | Project | Description | Tech |
 |:--------|:------------|:-----|
-| **Explore Jordan** | Tourism app with 25K+ places, Mapbox maps, bilingual EN/AR, blogs, chat & push notifications | Flutter, SQLite, Mapbox, REST API |
-| **Radio Hotstar** | Radio streaming app — 10K+ downloads, 4.6★ rating on Play Store | Java/Kotlin, ExoPlayer, AdMob |
-| **Radio Super Hiit** | Responsive radio website with live player, schedule, song requests | HTML/CSS/JS, Firebase Firestore |
-| **Route Optimizer** | Multi-stop trip planner with Google Maps shortest path routing | Flutter, Google Maps API |
-| **+ 4 White-Label Apps** | Healthcare, Events, E-Commerce & LMS apps shipped under client brands | Flutter, Firebase, Razorpay |
+| **Explore Jordan** | Bilingual (EN/AR), offline-first tourism platform — 25,000+ mapped points of interest across Jordan; Phase 1 delivered in 75 days for a direct Jordan-based client | Flutter, Mapbox, SQLite, REST APIs |
+| **Route Optim** | Multi-market logistics route-optimisation app for India & Jordan (MENA), built on a TSP algorithm and localized across 4 languages | Flutter, Google Maps API |
+| **Healthcare & Medical Events Suite** | Requirement gathering, UAT coordination, and release/compliance tracking across IAP Care, IAP India, RSSDI, IPA LMS, Event Connect, USI Event App, ACCD Events, DECON 2025 & USICON 2026 | Flutter, Firebase |
+| **Raj Musicals** | E-commerce store app for a musical-instruments retailer | Flutter, Firebase |
 
-> 📊 **25+ Projects Shipped** · **10+ Clients Served** · **3+ Years Building**
+> Plus 50+ white-label radio-streaming apps delivered across the studio portfolio — including **Radio Hotstar** (10K+ downloads, 4.6★ on Play Store) and **Radio Super Hiit** (live radio website with schedule & song requests).
 
-*Detailed source code is confidential under NDA. Visit [bitsaccurate.com](https://bitsaccurate.com) for case studies.*
+> 📊 **15+ Apps Delivered** · **10+ Enterprise Clients** · **6 Industry Verticals** · **100% Dual-Store Release Record**
+
+*Detailed source code is confidential under NDA. See [my portfolio](https://portfolioabdulsalam.vercel.app/) for full case studies.*
 
 ---
 
@@ -117,25 +112,18 @@ I handle everything from **client communication and project planning** to **writ
 
 ---
 
-## Work With Us
+## Let's Connect
 
-Looking for a **Flutter developer** or need a **full mobile app built from scratch**?
-
-We take on freelance projects, contract work, and long-term partnerships.
+Open to new **IT Project Management / Business Analyst** opportunities — full-time, contract, or project-based — and I coordinate client delivery for BitsAccurate across India and the Middle East.
 
 <p align="center">
-  <a href="https://bitsaccurate.com"><img src="https://img.shields.io/badge/🌐_Visit_BitsAccurate.com-137FEC?style=for-the-badge" /></a>
-  <a href="https://wa.me/918789812908"><img src="https://img.shields.io/badge/💬_WhatsApp_Us-25D366?style=for-the-badge" /></a>
-  <a href="mailto:bitsaccurate@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Us-D14836?style=for-the-badge" /></a>
-</p>
-
-<p align="center">
-  <b>Your Idea, Our Execution</b><br/>
-  <sub>Strategy | Execution | Success</sub>
+  <a href="https://portfolioabdulsalam.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-137FEC?style=for-the-badge" /></a>
+  <a href="https://wa.me/918789812908"><img src="https://img.shields.io/badge/💬_WhatsApp_Me-25D366?style=for-the-badge" /></a>
+  <a href="mailto:imabdulsalam1@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge" /></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="[[https://visitcount.itsvg.in](https://drive.google.com/file/d/1ktn75-XK67IEZKxIHX_woyDh0lOoD6Qt/view?usp=sharing)/api?id=imabdulsalam1&icon=0&color=0EA5E9](https://drive.google.com/file/d/1ktn75-XK67IEZKxIHX_woyDh0lOoD6Qt/view?usp=sharing)" />
+  <img src="https://visitcount.itsvg.in/api?id=imabdulsalam1&icon=0&color=0EA5E9" />
 </p>
