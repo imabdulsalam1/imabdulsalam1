@@ -8,7 +8,6 @@
   <a href="https://linkedin.com/in/imabdulsalam1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/imabdulsalam1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:imabdulsalam1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/918789812908"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
@@ -25,7 +24,6 @@ I own end-to-end delivery as SPOC for 10+ enterprise clients across India and th
 🎓  BCA — Galgotias University (2022–2025)
 📍  New Delhi, India
 📧  imabdulsalam1@gmail.com
-📞  +91 8789 812908
 ```
 
 ---
@@ -103,7 +101,7 @@ I own end-to-end delivery as SPOC for 10+ enterprise clients across India and th
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=imabdulsalam1&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com/?user=imabdulsalam1&theme=tokyonight&hide_border=true&background=0D1117" />
 </p>
 
 <p align="center">
@@ -118,7 +116,6 @@ Open to new **IT Project Management / Business Analyst** opportunities — full-
 
 <p align="center">
   <a href="https://portfolioabdulsalam.vercel.app/"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-137FEC?style=for-the-badge" /></a>
-  <a href="https://wa.me/918789812908"><img src="https://img.shields.io/badge/💬_WhatsApp_Me-25D366?style=for-the-badge" /></a>
   <a href="mailto:imabdulsalam1@gmail.com"><img src="https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge" /></a>
 </p>
 
