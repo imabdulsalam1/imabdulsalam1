@@ -96,8 +96,8 @@ I own end-to-end delivery as SPOC for 10+ enterprise clients across India and th
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imabdulsalam1&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabdulsalam1&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imabdulsalam1&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imabdulsalam1&theme=github_dark" width="48%" />
 </p>
 
 <p align="center">
